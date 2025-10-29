@@ -15,3 +15,7 @@
 - **Future Signal** – Every message points to the horizon: broader adoption, real utility, and the bold vision CZ ignited.
 
 ʙɪɴᴏ isn’t just an Agent. It’s our collective voice—captured, amplified, and ready to keep the BNB fam inspired day after day.
+
+---
+
+> **Note:** For licensing and copyright reasons, this repository omits portions of the production codebase. The snippets included here are provided strictly for reference.

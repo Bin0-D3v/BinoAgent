@@ -1,0 +1,2 @@
+[console_scripts]
+twitter-agent = twitter_agent.cli:app
